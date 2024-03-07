@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineeth</h1>
-<h3 align="center">There's this guy who's totally mad about editing and programming. It's his jam, you know?</h3>
+<h3 align="center">There's this guy who's mad about editing and programming. It's his jam, you know?</h3>
 
 - 🔭 I’m currently working on **Vegetation classification using Landsat 8 remote sensing data and a sequential Convolutional Neural Network**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vineethchivukula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineethchivukula" height="30" width="40" /></a>
 <a href="https://instagram.com/6nny.xsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="6nny.xsd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCP45O051m-oOWefiq3rI7YA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="6nnyxsd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@6nnyxsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="6nnyxsd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vineethchivukula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vineethchivukula" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vineethchivukula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vineethchivukula" height="30" width="40" /></a>
 </p>
