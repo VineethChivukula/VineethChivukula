@@ -7,7 +7,7 @@
 
 - 📝 I sometimes write articles on [https://vineethchivukula.medium.com/](https://vineethchivukula.medium.com/)
 
-- 📫 How to reach me **qualityhacker2002@gmail.com**
+- 📫 How to reach me **vineethonsocialmedia@gmail.com**
 
 - ⚡ Fun fact **I think I have a good humor**
 
