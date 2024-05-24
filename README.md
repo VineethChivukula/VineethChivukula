@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vineeth</h1>
 <h3 align="center">There's this guy who's mad about editing and programming. It's his jam, you know?</h3>
 
+<!-- 
 - 🔭 I’m currently working on **Vegetation classification using Landsat 8 remote sensing data and a sequential Convolutional Neural Network**
-
-- 🌱 I’m currently learning **c#, dotnet, and After Effects**
+-->
+- 🌱 I’m currently learning **DSA, and After Effects**
 
 - 📝 I sometimes write articles on [https://vineethchivukula.medium.com/](https://vineethchivukula.medium.com/)
 
