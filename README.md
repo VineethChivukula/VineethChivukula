@@ -6,7 +6,7 @@
 -->
 - 🌱 I’m currently learning **DSA, and Machine Learning**
 
-- 📝 I sometimes write articles on [https://vineethchivukula.medium.com/](https://vineethchivukula.medium.com/)
+- 📝 I sometimes write articles on [https://hashnode.com/@vineethchivukula](https://hashnode.com/@vineethchivukula)
 
 - 📫 How to reach me **vineethonsocialmedia@gmail.com**
 
