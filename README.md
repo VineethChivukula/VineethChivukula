@@ -4,7 +4,7 @@
 <!-- 
 - 🔭 I’m currently working on **Vegetation classification using Landsat 8 remote sensing data and a sequential Convolutional Neural Network**
 -->
-- 🌱 I’m currently learning **DSA, and Machine Learning**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📝 I sometimes write articles on [https://hashnode.com/@vineethchivukula](https://hashnode.com/@vineethchivukula)
 
