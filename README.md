@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Data Structures and Algorithms<br>📝 I sometimes write articles on https://hashnode.com/@vineethchivukula<br>📫 How to reach me: vineethonsocialmedia@gmail.com<br>⚡ Fun fact: I think I have good humor
+🌱 I’m currently learning Snowflake<br>📝 I sometimes write articles on https://hashnode.com/@vineethchivukula<br>📫 How to reach me: vineethonsocialmedia@gmail.com<br>⚡ Fun fact: I think I have good humor
 
 
 ## 🌐 Socials:
