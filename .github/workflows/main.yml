@@ -15,3 +15,10 @@ jobs:
         with:
           config_timezone: Asia/Calcutta
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Manga
+          filename: metrics.plugin.anilist.manga.svg
+          plugin_anilist: yes
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites, reading
+          plugin_anilist_limit: 1
