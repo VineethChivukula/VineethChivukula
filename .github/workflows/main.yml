@@ -16,7 +16,8 @@ jobs:
           config_timezone: Asia/Calcutta
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Isometric Calendar
+          # Plugins
+          filename: profile.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          filename: metrics.plugin.isocalendar.svg
+          
