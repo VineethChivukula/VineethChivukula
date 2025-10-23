@@ -1,1 +1,1 @@
-![Metrics](https://raw.githubusercontent.com/vineethchivukula/vineethchivukula/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/vineethchivukula/vineethchivukula/main/metrics.plugin.isocalendar.svg)
