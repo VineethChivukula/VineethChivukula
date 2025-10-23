@@ -15,9 +15,16 @@ jobs:
         with:
           config_timezone: Asia/Calcutta
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Plugins
           filename: profile.svg
+
+          # Isometric Plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
+          # Starred Topics Plugin
+          plugin_topics: yes
+          plugin_topics_mode: icons
+
+          # Leetcode Plugin
+          plugin_leetcode: yes
+          plugin_leetcode_user: vineethchivukula
