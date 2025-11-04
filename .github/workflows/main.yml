@@ -20,7 +20,7 @@ jobs:
           # Isometric Plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
+
           # Starred Topics Plugin
           plugin_topics: yes
           plugin_topics_mode: icons
@@ -28,3 +28,10 @@ jobs:
           # Leetcode Plugin
           plugin_leetcode: yes
           plugin_leetcode_user: vineethchivukula
+
+          # Anilist Plugin
+          plugin_anilist: yes
+          plugin_anilist_user: vinny267
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, reading
+          plugin_anilist_limit: 6
