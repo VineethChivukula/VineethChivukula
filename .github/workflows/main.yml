@@ -28,7 +28,7 @@ jobs:
           # Leetcode Plugin
           plugin_leetcode: yes
           plugin_leetcode_user: 6nny
-          plugin_leetcode_sections: skills
+          plugin_leetcode_sections: solved, skills
 
           # Anilist Plugin
           plugin_anilist: yes
